@@ -14,7 +14,7 @@ This tutorial demonstrates how to effectively use Large Language Models (LLMs) l
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/marcNY/Tutorial-LLM-data-analysis-for-actuaries.git
 cd tutorial_dta_analysis
 ```
 
